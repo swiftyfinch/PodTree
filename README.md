@@ -1,6 +1,7 @@
 <img src="https://github.com/swiftyfinch/PodTree/blob/main/Preview.png" width="430"/>
 
-🌳 Tiny utility for visualising [#CocoaPods](https://github.com/CocoaPods/CocoaPods) dependencies tree.
+🌳 Tiny utility for visualising [#CocoaPods](https://github.com/CocoaPods/CocoaPods) dependencies tree.\
+More information [here](https://swiftyfinch.github.io/en/2020-06-20-pod-tree/).
 
 ## Author
 
