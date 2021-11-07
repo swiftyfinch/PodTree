@@ -8,4 +8,4 @@ More information [here](https://swiftyfinch.github.io/en/2020-06-20-pod-tree/).
 Vyacheslav Khorkov\
 Twitter: [@SwiftyFinch](https://twitter.com/swiftyfinch)\
 Blog: [swiftyfinch.github.io](https://swiftyfinch.github.io/en)\
-Feel free to contact me for any questions.
+Feel free to contact me 📮
